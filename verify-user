@@ -1,0 +1,5 @@
+{
+  "verified": true,
+  "roles": ["verified_user"],
+  "message": "User verification endpoint for Hermes Discord Bot"
+}
